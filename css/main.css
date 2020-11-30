@@ -1,0 +1,27 @@
+body{
+    background-image: url(../img/S7zLQIQqSAg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 300px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+#clock{
+    font-weight: 300;
+    font-size: 120px;
+}
+.but{
+    background-color: #8180A6;
+    color: wheat;
+}
+.bit{
+    margin-top: 30px;
+    background-color: #8180A6;
+    color: wheat;
+}
+.big{
+    margin-top: 30px;
+    background-color: #8180A6;
+    color: wheat;
+}
